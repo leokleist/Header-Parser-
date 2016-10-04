@@ -1,0 +1,1 @@
+This is an API that reads the ip-address, operating system, and language from the request header, and returns these in a json object. 
